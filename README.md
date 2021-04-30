@@ -1,5 +1,4 @@
-- Hello! I’m @anna-ringwood, an undergraduate university student in Georgia.
-- This is where I keep school projects, as well as my own personal projects.
+- Hello! I’m @anna-ringwood, an undergraduate university student in Georgia. This is where I keep school projects, as well as my own personal projects.
 - Thanks for stopping by!
 
 <!---
