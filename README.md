@@ -1,4 +1,4 @@
-Hello! I’m @anna-ringwood, an undergraduate university student at Emory University in Atlanta, Georgia. This is where I keep school projects, as well as my own personal projects. Thanks for stopping by! 🐳 🐳 🐳
+Hello! I’m @anna-ringwood, a recent graduate of Emory University in Atlanta, Georgia. This is where I keep school projects, as well as my own personal projects. Thanks for stopping by! 🐳 🐳 🐳
 
 <!---
 anna-ringwood/anna-ringwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
